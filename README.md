@@ -13,7 +13,7 @@ const frankTurtle = {
   architecture: ['microservices', 'TDD', 'scrum', 'CI/CD'],
   communities: {
     tech: {
-      member: [D_D, KlimaDao, IronFish, Toucan, Buildspace, MinaProtocol, Praxis],
+      member: [D_D, KlimaDAO, IronFish, Toucan, Buildspace, MinaProtocol, Praxis],
       founder: [LifeBoss, web3Discord, AskAVet, FormzTo],
     },
     life: ['GivingWhatWeCan.org', 'lichess'],
