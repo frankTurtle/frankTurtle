@@ -2,6 +2,18 @@
 
 I'm an engineer, maker, climate 💛 and overall cool dude 😎
 
+🐢🦄🚀🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢
+
+🦄🐢🦄🚀🐢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Want a mintable NFT of my resume**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦄🚀🦄🚀🐢
+
+🦄🐢🦄🚀🐢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> [OpenSea Resume Collection](https://testnets.opensea.io/collection/frank-9klnquzxmg?search[sortAscending]=true&search[sortBy]=PRICE)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦄🚀🦄🚀🐢
+
+🦄🐢🦄🚀🐢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> [Resume Contract](https://mumbai.polygonscan.com/address/0xd4d1d0827bc1bc2aedc0a8dbbc2160e8d2024675)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦄🚀🦄🚀🐢
+
+🦄🐢🦄🚀🐢&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--> [Resume Source](https://github.com/frankTurtle/52WeekendsOfWeb3SideProjects/tree/main/Weekend%201%20-%20NFT%20Resume)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦄🚀🦄🚀🐢
+
+🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢
+
 
 ### A little more about me 👇👇
 
