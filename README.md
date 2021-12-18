@@ -16,7 +16,7 @@ const frankTurtle = {
       member: [D_D, KlimaDAO, IronFish, Toucan, Buildspace, MinaProtocol, Praxis],
       founder: [LifeBoss, web3Discord, AskAVet, FormzTo],
     },
-    life: ['GivingWhatWeCan.org', 'lichess'],
+    life: ['GivingWhatWeCan.org', 'Cool Earth', 'lichess'],
   },
   certs: ['AWS Solutions Architect Associate', 'AWS Cloud Practictioner', 'Azure Fundamentals'],
   challenge: '52 web3 projects each weekend for a year!'
