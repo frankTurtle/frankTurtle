@@ -18,7 +18,7 @@ const frankTurtle = {
     },
     life: ['GivingWhatWeCan.org', 'Cool Earth', 'lichess'],
   },
-  certs: ['AWS Solutions Architect Associate', 'AWS Cloud Practictioner', 'Azure Fundamentals'],
+  certs: ['AWS Solutions Architect Associate', 'AWS Cloud Practictioner', 'Azure Fundamentals', 'Scrum Master'],
   challenge: '52 web3 projects each weekend for a year!'
 }
 ```
