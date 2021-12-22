@@ -25,10 +25,10 @@ const frankTurtle = {
   architecture: ['microservices', 'TDD', 'scrum', 'CI/CD'],
   communities: {
     tech: {
-      member: [D_D, KlimaDAO, IronFish, Toucan, Buildspace, MinaProtocol, Praxis],
+      member: [D_D, KlimaDAO, IronFish, Toucan, BanklessDAO, MinaProtocol, Praxis],
       founder: [LifeBoss, web3Discord, AskAVet, FormzTo],
     },
-    life: ['GivingWhatWeCan.org', 'Cool Earth', 'lichess'],
+    life: ['GivingWhatWeCan.org', 'Cool Earth', 'lichess', 'Fitness', 'Meditation'],
   },
   certs: ['AWS Solutions Architect Associate', 'AWS Cloud Practictioner', 'Azure Fundamentals', 'Scrum Master'],
   challenge: '52 web3 projects each weekend for a year!'
