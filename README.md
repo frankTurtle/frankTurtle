@@ -1,6 +1,8 @@
 ### Oi, name's frank🐢
 
-I'm an engineer, maker, climate 💛 and overall cool dude 😎. Occasionally [I ✍️ things on my Mirror blog](https://mirror.xyz/frankturtle.eth)
+I'm an engineer, maker, climate 💛 and overall cool dude 😎. 
+
+Occasionally [I ✍️ things on Mirror](https://mirror.xyz/frankturtle.eth)
 <br><br>
 
 🐢🦄🚀🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🦄🚀🐢🚀🐢
