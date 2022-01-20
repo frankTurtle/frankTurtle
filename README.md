@@ -34,12 +34,13 @@ const frankTurtle = {
   communities: {
     tech: {
       member: [D_D, KlimaDAO, IronFish, Toucan, BanklessDAO, MinaProtocol, Praxis],
-      founder: [LifeBoss, web3Discord, AskAVet, FormzTo],
+      founder: [LifeBoss, web3Discord, AskAVet, FormzTo, DYOR.VIP],
     },
     life: ['GivingWhatWeCan.org', 'Cool Earth', 'lichess', 'Fitness', 'Meditation'],
   },
   certs: ['AWS Solutions Architect Associate', 'AWS Cloud Practictioner', 'Azure Fundamentals', 'Scrum Master'],
-  challenge: '52 web3 projects each weekend for a year!'
+  challenge: '52 web3 projects each weekend for a year!',
+  radicleId: 'hynzgquuyojapj1n4en6zjb4iybn3gp8q169bchmxurgfbgxohw996'
 }
 ```
 
