@@ -46,9 +46,7 @@ const frankTurtle = {
 <img src="https://media.giphy.com/media/O8oPnvoMi31mw/giphy.gif" width="240" align="center"> 
   <br><em><b>Feel free to drop me a message in any of my social channels 🤙🤙</em><br><br>
   
-[![Twitter: frankturtle__](https://img.shields.io/twitter/follow/frankturtle__?style=social)](https://twitter.com/frankturtle__) 
 [![GitHub frankTurtle](https://img.shields.io/github/followers/frankTurtle?label=follow&style=social)](https://github.com/frankTurtle) 
-![Discord](https://img.shields.io/discord/905893545137803346)
   
 > Less trust, more truth 
 > 
