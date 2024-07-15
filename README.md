@@ -27,7 +27,6 @@ Occasionally [I ✍️ things on Mirror](https://mirror.xyz/frankturtle.eth)
 
 ```javascript
 const frankTurtle = {
-  pronouns: 'he' | 'him' | 'él' ,
   code: ['JS', 'Solidity', 'Java', 'HTML5', 'Tailwind/CSS', 'Python'],
   tools: [IPFS, AWS, Azure, React, Node, NextJS, Docker, Supabase, Ethereum/Polygon],
   architecture: ['microservices', 'TDD', 'scrum', 'CI/CD'],
