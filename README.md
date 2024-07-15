@@ -44,7 +44,6 @@ const frankTurtle = {
 ```
 
 <img src="https://media.giphy.com/media/O8oPnvoMi31mw/giphy.gif" width="240" align="center"> 
-  <br><em><b>Feel free to drop me a message in any of my social channels 🤙🤙</em><br><br>
   
 [![GitHub frankTurtle](https://img.shields.io/github/followers/frankTurtle?label=follow&style=social)](https://github.com/frankTurtle) 
   
