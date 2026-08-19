@@ -40,6 +40,11 @@ I put agent tooling in the delivery loop, not the demo.
 <table>
   <tr>
     <td width="33%" valign="top">
+      <h3>Engineering leadership</h3>
+      <p>Architecture, technical roadmap, and delivery cadence for small teams — including directing firmware and iOS work outside my own stack and owning whether it landed.</p>
+      <p><sub><code>Roadmap</code> · <code>Delivery</code> · <code>DX</code> · <code>Quality gates</code></sub></p>
+    </td>
+    <td width="33%" valign="top">
       <h3>Serverless platforms</h3>
       <p>Multi-domain APIs on AWS from schema to production — shared auth, logging, and error-handling layers, provisioned in code and released through gated pipelines.</p>
       <p><sub><code>AWS</code> · <code>Lambda / SAM</code> · <code>Terraform</code> · <code>CloudWatch</code></sub></p>
@@ -48,11 +53,6 @@ I put agent tooling in the delivery loop, not the demo.
       <h3>Agent-native delivery</h3>
       <p>Production agentic systems and agent-assisted delivery loops: pre-commit review gates, specialized security / test / docs agents, headless multi-agent pipelines.</p>
       <p><sub><code>Claude API</code> · <code>Claude Code</code> · <code>MCP</code> · <code>RAG</code></sub></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Engineering leadership</h3>
-      <p>Architecture, technical roadmap, and delivery cadence for small teams — including directing firmware and iOS work outside my own stack and owning whether it landed.</p>
-      <p><sub><code>Roadmap</code> · <code>Delivery</code> · <code>DX</code> · <code>Quality gates</code></sub></p>
     </td>
   </tr>
 </table>
