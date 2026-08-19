@@ -268,6 +268,13 @@ I put agent tooling in the delivery loop, not the demo.
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signature-dark.svg"/>
+  <img src="assets/signature-light.svg" alt="Barret J. Nobel" width="300"/>
+</picture>
+
+<br/>
+
 <a href="https://barretnobel.com"><img src="https://img.shields.io/badge/Website-barretnobel.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/barretnobel"><img src="https://img.shields.io/badge/LinkedIn-barretnobel-0a66c2?style=flat-square" alt="LinkedIn"/></a>
 <a href="mailto:contact@barretnobel.com"><img src="https://img.shields.io/badge/Email-contact%40barretnobel.com-6e7781?style=flat-square&logo=maildotru&logoColor=white" alt="Email"/></a>
