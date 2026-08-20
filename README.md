@@ -10,7 +10,7 @@
 
 ### Engineering Leader — Cloud Infrastructure · CI/CD · Agent-Native Delivery
 
-Founder, **Nobel Life Systems LLC** · Sound Beach, NY
+Founder, **Nobel Life Systems LLC** · Long Island, NY
 
 <a href="https://barretnobel.com"><img src="https://img.shields.io/badge/Website-barretnobel.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/barretnobel"><img src="https://img.shields.io/badge/LinkedIn-barretnobel-0a66c2?style=flat-square" alt="LinkedIn"/></a>
@@ -154,39 +154,47 @@ I put agent tooling in the delivery loop, not the demo.
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/Nobel-Co/chancel">chancel</a></h3>
+      <p>Provable scope isolation for AI retrieval, built and published under my own consultancy's org. Firm-wide instructions travel everywhere; client matter data provably never crosses a matter boundary, and the wall sits below the AI provider so swapping models cannot weaken it. The test suite is deliberately red against the two architectures most products ship.</p>
+      <p><sub><code>Python</code> · <code>Qdrant</code> · <code>PyPI</code> · <code>Mutation testing</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://ismysitehackable.com">ismysitehackable.com</a></h3>
       <p>Security-audit SaaS for AI-generated apps. A bounded Claude agent runs the audit; the report is reconstructed server-side from typed fields so the model never writes evidence text.</p>
       <p><sub><code>Next.js</code> · <code>AWS SAM</code> · <code>Fargate</code> · <code>Claude API</code></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/acquisition-pipeline">acquisition-pipeline</a></h3>
       <p>Multi-agent system for sourcing, screening, and analyzing small-business acquisitions. Six Claude Code agents over a shared skills layer, Notion as shared state, and a dashboard that streams agent sessions over SSE.</p>
       <p><sub><code>Claude Code</code> · <code>Next.js</code> · <code>Notion API</code> · <code>SSE</code></sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/matterbrief">matterbrief</a></h3>
       <p>RAG over a legal matter's documents where every claim carries a verbatim pinpoint citation. CLI, HTTP API, and web UI; 96% test coverage enforced in CI.</p>
       <p><sub><code>Python</code> · <code>ChromaDB</code> · <code>FastAPI</code> · <code>Claude citations</code></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/citeline">citeline</a></h3>
       <p>Compliance Q&amp;A over public regulatory text. Every answer cites an exact section, and unverifiable sentences are deleted before you see them.</p>
       <p><sub><code>LangGraph</code> · <code>Qdrant</code> · <code>Cohere</code> · <code>Groq</code></sub></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/watchpost">watchpost</a></h3>
       <p>Self-hosted uptime monitoring and public status pages, with the checking layer provisioned as infrastructure rather than a managed add-on.</p>
       <p><sub><code>Next.js</code> · <code>Supabase</code> · <code>AWS Lambda</code> · <code>Terraform</code></sub></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/github-fitness">github-fitness</a></h3>
       <p>Strava workout history rendered as a GitHub-style contribution heatmap. The one here purely for fun.</p>
       <p><sub><code>Next.js 15</code> · <code>Drizzle</code> · <code>Neon Postgres</code></sub></p>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -219,7 +227,7 @@ I put agent tooling in the delivery loop, not the demo.
 
 ## Experience
 
-**Founder & Principal Engineer** · **Nobel Life Systems LLC** · `Sep 2024 — Present` · Sound Beach, NY
+**Founder & Principal Engineer** · **Nobel Life Systems LLC** · `Sep 2024 — Present` · Long Island, NY
 > Engineering consultancy. Fractional technical leadership and delivery for early-stage
 > companies, plus in-house products. Part-time alongside Miris until Dec 2024, full-time since.
 
