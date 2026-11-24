@@ -1,16 +1,16 @@
 <!--
   Barret Nobel — GitHub profile README
   Rendered at https://github.com/frankTurtle
-  Every factual claim here traces to data/resume.yaml in the private resume repo.
+  Every factual claim here traces to Barret's résumé (Nov 2026).
 -->
 
 <div align="center">
 
 # Barret J. Nobel
 
-### Engineering Leader — Cloud Infrastructure · CI/CD · Agent-Native Delivery
+### AI Engineering Enablement &amp; DevSecOps Leader
 
-Founder, **Nobel Life Systems LLC** · Long Island, NY
+Making AI-accelerated delivery safe to ship · Former Acting CTO · Long Island, NY
 
 <a href="https://barretnobel.com"><img src="https://img.shields.io/badge/Website-barretnobel.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/barretnobel"><img src="https://img.shields.io/badge/LinkedIn-barretnobel-0a66c2?style=flat-square" alt="LinkedIn"/></a>
@@ -22,37 +22,37 @@ Founder, **Nobel Life Systems LLC** · Long Island, NY
 
 ## About
 
-Ten years building and running engineering, from Canon U.S.A.'s FedRAMP cloud architecture
-to acting CTO of an early-stage automotive SaaS company.
+I help engineering teams ship faster with AI without shipping risk.
 
-I run **Nobel Life Systems LLC**, an engineering consultancy doing fractional technical
-leadership and delivery for early-stage companies, plus in-house products. The work splits
-about evenly between architecture and roadmap for other people's teams, and building the
-platform underneath it myself — serverless backends, release pipelines, and the compliance
-and quality gates that keep them shippable.
+AI made code faster, but delivery didn't get safer. Google's DORA research found AI adoption
+raises throughput and instability together. That gap is where I work: AI-assisted development
+with real guardrails, CI/CD where nothing ships without passing its gates, and compliance
+evidence wired into the build instead of a spreadsheet.
 
-I put agent tooling in the delivery loop, not the demo.
+Ten years in, from architecting the Azure infrastructure behind Canon U.S.A.'s FedRAMP
+authorization to acting CTO of an early-stage automotive SaaS company. I put agent tooling in
+the delivery loop, not the demo.
 
 ---
 
-## Current focus
+## What I do
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Engineering leadership</h3>
-      <p>Architecture, technical roadmap, and delivery cadence for small teams — including directing firmware and iOS work outside my own stack and owning whether it landed.</p>
-      <p><sub><code>Roadmap</code> · <code>Delivery</code> · <code>DX</code> · <code>Quality gates</code></sub></p>
+      <h3>AI-assisted SDLC, with guardrails</h3>
+      <p>Review-agent gates on every commit, documented invariants, and specialized agents for security, implementation, tests, and docs, so AI speed shows up as shipped work instead of rework.</p>
+      <p><sub><code>Claude Code</code> · <code>MCP</code> · <code>Agent orchestration</code> · <code>Evals</code></sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3>Serverless platforms</h3>
-      <p>Multi-domain APIs on AWS from schema to production — shared auth, logging, and error-handling layers, provisioned in code and released through gated pipelines.</p>
-      <p><sub><code>AWS</code> · <code>Lambda / SAM</code> · <code>Terraform</code> · <code>CloudWatch</code></sub></p>
+      <h3>Secure CI/CD</h3>
+      <p>Pipelines where nothing ships without passing lint, tests, build, and end-to-end checks, from multi-tenant AWS platforms to ARM, x86, macOS, iOS, and Windows releases from one set of pipelines.</p>
+      <p><sub><code>GitHub Actions</code> · <code>Azure DevOps</code> · <code>Terraform</code> · <code>AWS SAM</code></sub></p>
     </td>
     <td width="33%" valign="top">
-      <h3>Agent-native delivery</h3>
-      <p>Production agentic systems and agent-assisted delivery loops: pre-commit review gates, specialized security / test / docs agents, headless multi-agent pipelines.</p>
-      <p><sub><code>Claude API</code> · <code>Claude Code</code> · <code>MCP</code> · <code>RAG</code></sub></p>
+      <h3>Compliance in the pipeline</h3>
+      <p>Audit evidence produced by the build, not assembled after it. Vulnerability scanning and endpoint protection wired into the evidence chain for a FedRAMP authorization.</p>
+      <p><sub><code>FedRAMP</code> · <code>Security auditing</code> · <code>Adversarial testing</code></sub></p>
     </td>
   </tr>
 </table>
@@ -62,15 +62,31 @@ I put agent tooling in the delivery loop, not the demo.
 ## Tech stack
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>AI engineering</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Bash%20%2F%20Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash / Zsh"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell"/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
+  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/MCP-1f6feb?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/Agentic%20pipelines-30363d?style=flat-square" alt="Agentic pipelines"/>
+  <img src="https://img.shields.io/badge/Agent%20orchestration-30363d?style=flat-square" alt="Agent orchestration"/>
+  <img src="https://img.shields.io/badge/Context%20engineering-30363d?style=flat-square" alt="Context engineering"/>
+  <img src="https://img.shields.io/badge/Evals%20%2F%20trajectory%20grading-30363d?style=flat-square" alt="Evals / trajectory grading"/>
+  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-30363d?style=flat-square" alt="RAG / embeddings"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FFDE57?style=flat-square&logo=chromatic&logoColor=black" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+</p>
+</details>
+
+<details open>
+<summary><b>DevSecOps &amp; CI/CD</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square" alt="Azure DevOps"/>
+  <img src="https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode Cloud"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
+  <img src="https://img.shields.io/badge/Git%20%2F%20GitFlow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git / GitFlow"/>
 </p>
 </details>
 
@@ -91,32 +107,32 @@ I put agent tooling in the delivery loop, not the demo.
 </details>
 
 <details>
-<summary><b>CI/CD &amp; tooling</b></summary>
+<summary><b>Security, compliance &amp; testing</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square" alt="Azure DevOps"/>
-  <img src="https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode Cloud"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitFlow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git / GitFlow"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/FedRAMP-30363d?style=flat-square" alt="FedRAMP"/>
+  <img src="https://img.shields.io/badge/Adversarial%20testing-30363d?style=flat-square" alt="Adversarial testing"/>
+  <img src="https://img.shields.io/badge/Nessus-00558C?style=flat-square" alt="Nessus"/>
 </p>
 </details>
 
+---
+
 <details>
-<summary><b>AI engineering</b></summary>
+<summary><b>Languages</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API"/>
-  <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/MCP-1f6feb?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/Agentic%20pipelines-30363d?style=flat-square" alt="Agentic pipelines"/>
-  <img src="https://img.shields.io/badge/Agent%20orchestration-30363d?style=flat-square" alt="Agent orchestration"/>
-  <img src="https://img.shields.io/badge/Context%20engineering-30363d?style=flat-square" alt="Context engineering"/>
-  <img src="https://img.shields.io/badge/Evals%20%2F%20trajectory%20grading-30363d?style=flat-square" alt="Evals / trajectory grading"/>
-  <img src="https://img.shields.io/badge/RAG%20%2F%20embeddings-30363d?style=flat-square" alt="RAG / embeddings"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FFDE57?style=flat-square&logo=chromatic&logoColor=black" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Bash%20%2F%20Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash / Zsh"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square" alt="PowerShell"/>
 </p>
 </details>
 
@@ -135,21 +151,6 @@ I put agent tooling in the delivery loop, not the demo.
 </p>
 </details>
 
-<details>
-<summary><b>Testing, QA &amp; security</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest"/>
-  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white" alt="Puppeteer"/>
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest"/>
-  <img src="https://img.shields.io/badge/FedRAMP-30363d?style=flat-square" alt="FedRAMP"/>
-  <img src="https://img.shields.io/badge/Adversarial%20testing-30363d?style=flat-square" alt="Adversarial testing"/>
-  <img src="https://img.shields.io/badge/Nessus-00558C?style=flat-square" alt="Nessus"/>
-</p>
-</details>
-
 ---
 
 ## Featured work
@@ -158,37 +159,25 @@ I put agent tooling in the delivery loop, not the demo.
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/escapement">escapement</a></h3>
-      <p>Deterministic agent orchestration, on npm. A frozen transition table where an illegal agent transition throws instead of limping on, a token-budgeted context assembler, and an append-only ledger that replays a run exactly. The eval harness grades whole trajectories — which tools, in what order, inside which budget — and gates regressions in CI. Zero runtime dependencies.</p>
+      <p>Deterministic agent orchestration, on npm. A frozen transition table where an illegal agent transition throws instead of limping on, a token-budgeted context assembler, and an append-only ledger that replays a run exactly. The eval harness grades whole trajectories and blocks regressions in CI. 204 tests, a 16-case eval suite, zero runtime dependencies.</p>
       <p><sub><code>TypeScript</code> · <code>State machines</code> · <code>Evals</code> · <code>npm</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://pypi.org/project/chancel/">chancel</a></h3>
-      <p>Provable scope isolation for AI retrieval, built and published under my own consultancy's org. Firm-wide instructions travel everywhere; client matter data provably never crosses a matter boundary, and the wall sits below the AI provider so swapping models cannot weaken it. The test suite is deliberately red against the two architectures most products ship.</p>
-      <p><sub><code>Python</code> · <code>Qdrant</code> · <code>PyPI</code> · <code>Mutation testing</code></sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://ismysitehackable.com">ismysitehackable.com</a></h3>
-      <p>Security-audit SaaS for AI-generated apps. A bounded Claude agent runs the audit; the report is reconstructed server-side from typed fields so the model never writes evidence text.</p>
+      <h3>ismysitehackable.com <sub><i>&mdash; shut down Sep 2026</i></sub></h3>
+      <p>Security-audit SaaS for AI-generated apps, run by a bounded Claude agent. 380 scans across 283 domains in the first two weeks surfaced 1,335 issues, 51 critical. An internal red-team pass leaked 166 of 168 planted values; rebuilding reports from server-side typed fields cut that to zero across 444 adversarial cases.</p>
       <p><sub><code>Next.js</code> · <code>AWS SAM</code> · <code>Fargate</code> · <code>Claude API</code></sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/frankTurtle/acquisition-pipeline">acquisition-pipeline</a></h3>
-      <p>Multi-agent system for sourcing, screening, and analyzing small-business acquisitions. Six Claude Code agents over a shared skills layer, Notion as shared state, and a dashboard that streams agent sessions over SSE.</p>
-      <p><sub><code>Claude Code</code> · <code>Next.js</code> · <code>Notion API</code> · <code>SSE</code></sub></p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>matterbrief <sub><i>&mdash; private</i></sub></h3>
-      <p>RAG over a legal matter's documents where every claim carries a verbatim pinpoint citation. CLI, HTTP API, and web UI; 96% test coverage enforced in CI.</p>
-      <p><sub><code>Python</code> · <code>ChromaDB</code> · <code>FastAPI</code> · <code>Claude citations</code></sub></p>
+      <h3><a href="https://github.com/frankTurtle/acquisition-pipeline">acquisition-pipeline</a></h3>
+      <p>Six-agent autonomous pipeline that runs headless every day: sourcing, orchestration, analysis, and document generation. Six Claude Code agents over a shared skills layer, Notion as shared state, and a dashboard that streams agent sessions over SSE.</p>
+      <p><sub><code>Claude Code</code> · <code>Next.js</code> · <code>Notion API</code> · <code>SSE</code></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>citeline <sub><i>&mdash; private</i></sub></h3>
-      <p>Compliance Q&amp;A over public regulatory text. Every answer cites an exact section, and unverifiable sentences are deleted before you see them.</p>
-      <p><sub><code>LangGraph</code> · <code>Qdrant</code> · <code>Cohere</code> · <code>Groq</code></sub></p>
+      <h3>matterbrief <sub><i>&mdash; private</i></sub></h3>
+      <p>RAG over a legal matter's documents where every claim carries a verbatim citation to its source. CLI, HTTP API, and web UI; 96% test coverage enforced in CI.</p>
+      <p><sub><code>Python</code> · <code>ChromaDB</code> · <code>ONNX embeddings</code> · <code>Claude citations</code></sub></p>
     </td>
   </tr>
   <tr>
@@ -211,15 +200,15 @@ I put agent tooling in the delivery loop, not the demo.
   <tr>
     <td align="center" width="25%">
       <h2>12 months</h2>
-      <sub>to FedRAMP authorization for Canon U.S.A., on Azure infrastructure I architected and built</sub>
+      <sub>to FedRAMP authorization for Canon U.S.A., on Azure infrastructure I architected</sub>
     </td>
     <td align="center" width="25%">
       <h2>15 min → &lt;2</h2>
       <sub>deployment time as sole DevOps for a six-engineer team, moving it to multiple releases a day</sub>
     </td>
     <td align="center" width="25%">
-      <h2>81 functions</h2>
-      <sub>Lambda functions across a 10-domain serverless API platform, built solo from schema to production</sub>
+      <h2>166 → 0</h2>
+      <sub>PII leaks in AI-generated security reports, held at zero across 444 adversarial cases</sub>
     </td>
     <td align="center" width="25%">
       <h2>$200K</h2>
@@ -232,38 +221,40 @@ I put agent tooling in the delivery loop, not the demo.
 
 ## Experience
 
-**Founder & Principal Engineer** · **Nobel Life Systems LLC** · `Sep 2024 — Present` · Long Island, NY
-> Engineering consultancy. Fractional technical leadership and delivery for early-stage
-> companies, plus in-house products. Part-time alongside Miris until Dec 2024, full-time since.
+**AI Engineering Enablement & DevSecOps Consultant (Founder)** · **Nobel Life Systems LLC** · `Sep 2024 — Present` · Long Island, NY
+> Fractional technical leadership and delivery for early-stage companies. Part-time alongside
+> Miris until Dec 2024, full-time since.
 
-&nbsp;&nbsp;↳ **Principal Engineer → Acting CTO** · early-stage automotive SaaS company (client) · `Sep 2024 — Present`
-> Took over CTO duties in Dec 2025 when the CTO departed. Owned architecture, technical
-> roadmap, and delivery cadence for a team of four engineers, and directed firmware and iOS
-> delivery outside my own stack. Paused an unreleased internal admin platform and moved all
-> four engineers onto the core product, clearing the last blocker in six months. Built the
-> 10-domain serverless API platform solo — 81 Lambda functions across two AWS regions from a
-> single SAM template, released through GitHub Actions gated on tests.
+&nbsp;&nbsp;↳ **Principal Engineer → Acting CTO** · early-stage automotive SaaS company (client) · `Sep 2024 — Aug 2026`
+> Took over as acting CTO in Dec 2025 when the CTO departed; owned architecture, roadmap, and
+> delivery for a four-engineer team across web, API, and iOS. Rolled out AI-assisted delivery
+> with guardrails: a mandatory pre-commit review-agent gate and documented invariants across
+> three production repos, with a scored matrix routing work to four specialized agents. Gated
+> the enterprise app on lint, tests, and build in GitHub Actions on every push, with a Jest
+> regression suite built from production defects. Built the MVP backend solo on AWS SAM (73 Lambda functions, 26 DynamoDB
+> tables, Aurora in a VPC) and the multi-tenant enterprise app's infrastructure in Terraform
+> with OIDC-authenticated GitHub Actions. Paused an unreleased internal admin platform and moved
+> all four engineers onto the core product, clearing the last blocker in six weeks.
 
-&nbsp;&nbsp;↳ **ismysitehackable.com** · own product · `Mar 2026 — Present`
-> Security-audit SaaS for AI-generated apps. 380 scans across 283 domains in the first two
-> weeks surfaced 1,335 issues, 51 of them critical. Closed a PII-leak channel in generated
-> reports after an internal red-team pass leaked 166 of 168 planted records past the first
-> fix, cutting leaks to zero across 444 adversarial cases.
+**Founder & Engineer** · **ismysitehackable.com** · `Mar 2026 — Sep 2026`
+> Security-audit SaaS for AI-generated apps on Next.js, AWS SAM, and Fargate, using a bounded
+> Claude agent. Closed a PII-leak channel in generated reports, cutting leaks to zero across 444
+> adversarial cases, and instrumented the product with an operations console.
 
 **DevOps Engineer** · **Miris** (formerly Illuscio Inc.) · `Aug 2020 — Dec 2024` · Remote
 > Sole DevOps engineer for a six-engineer team on a point cloud imaging platform. Stood up
 > every repository, build pipeline, and release path in Azure DevOps from scratch; cut
-> deployment from over 15 minutes to under two; owned release delivery across macOS, iOS,
-> and Windows from one set of pipelines. Gated every pull request on linting, formatting,
-> and tests, holding time to merge under an hour.
+> deployment from over 15 minutes to under two; built ARM and x86 targets from a single
+> pipeline; released across macOS, iOS, and Windows from one set of pipelines. Gated every
+> pull request on linting, formatting, and tests, holding time to merge under an hour.
 
 **Software Engineer → Lead Engineer** · **Canon U.S.A. Inc.** · `Dec 2016 — Aug 2020` · Melville, NY
-> Architected and built the Azure infrastructure that secured Canon U.S.A.'s FedRAMP
-> authorization in 12 months, opening its cloud suite to federal buyers. Promoted to lead a
-> five-engineer team through the rebuild of Canon's photographer matching service, securing
-> $200K in committed revenue with $1.2M in contracted upside. Built the serverless AWS
-> microservices behind Canon's ink and toner auto-replenishment, a multi-million dollar
-> revenue line.
+> Architected the Azure infrastructure that secured Canon U.S.A.'s FedRAMP authorization in 12
+> months, with vulnerability scanning and endpoint protection wired into the audit evidence
+> chain. Moved teams to lead a five-engineer rebuild of Canon's photographer matching service,
+> securing $200K in committed revenue with $1.2M in contracted upside. Introduced GitFlow and
+> stood up the group's first scrum team. Built the serverless AWS microservices behind Canon's
+> ink and toner auto-replenishment, a multi-million dollar revenue line.
 
 ---
 
@@ -287,6 +278,8 @@ I put agent tooling in the delivery loop, not the demo.
 </picture>
 
 <br/>
+
+Open to Director or Head of DevSecOps, Platform, or AI Engineering Enablement roles.
 
 <a href="https://barretnobel.com"><img src="https://img.shields.io/badge/Website-barretnobel.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/barretnobel"><img src="https://img.shields.io/badge/LinkedIn-barretnobel-0a66c2?style=flat-square" alt="LinkedIn"/></a>
