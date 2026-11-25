@@ -33,6 +33,9 @@ Ten years in, from architecting the Azure infrastructure behind Canon U.S.A.'s F
 authorization to acting CTO of an early-stage automotive SaaS company. I put agent tooling in
 the delivery loop, not the demo.
 
+That work is open source now: **[Rollcage](https://github.com/frankTurtle/rollcage)**, my AI DevSecOps
+library of guardrails you can adopt, each with tests, CI, and a demo.
+
 ---
 
 ## What I do
@@ -87,6 +90,8 @@ the delivery loop, not the demo.
   <img src="https://img.shields.io/badge/Xcode%20Cloud-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode Cloud"/>
   <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/>
   <img src="https://img.shields.io/badge/Git%20%2F%20GitFlow-F05032?style=flat-square&logo=git&logoColor=white" alt="Git / GitFlow"/>
+  <img src="https://img.shields.io/badge/gitleaks-30363d?style=flat-square" alt="gitleaks"/>
+  <img src="https://img.shields.io/badge/DORA%20metrics-30363d?style=flat-square" alt="DORA metrics"/>
 </p>
 </details>
 
@@ -156,6 +161,19 @@ the delivery loop, not the demo.
 ## Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/frankTurtle/rollcage">rollcage</a>: the AI DevSecOps library</h3>
+      <p>Guardrails that make AI-accelerated delivery safe to ship, and numbers that show whether AI is paying off. Each piece ships as code with tests, CI, and an offline demo.</p>
+      <ul>
+        <li><b>PR risk gate:</b> risk is scored by code, the model's review must cite file and line, and a high-risk PR without tests cannot merge. GitHub Action, CLI, and Claude Code skill.</li>
+        <li><b>Agent policy:</b> a one-page AI coding agent policy enforced by Claude Code hooks that block secret reads, force-pushes, writes outside the repo, and unlisted hosts, with a hash-chained audit log.</li>
+        <li><b>DORA metrics:</b> the five DORA metrics from the GitHub API, split before and after an AI rollout date, with an HTML dashboard and a CFO summary.</li>
+        <li><b>Secrets guard:</b> gitleaks pre-commit, a CI scan, and an AWS SAM app that deactivates (never deletes) a leaked AWS key.</li>
+      </ul>
+      <p><sub><code>TypeScript</code> · <code>Claude Code</code> · <code>GitHub Actions</code> · <code>AWS SAM</code> · <code>gitleaks</code> · <code>Vitest</code></sub></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/frankTurtle/escapement">escapement</a></h3>
